@@ -1,0 +1,19 @@
+C:\Users\Usuario\source\repos\Lector PDF\Lector PDF\bin\Debug\Lector PDF.exe.config
+C:\Users\Usuario\source\repos\Lector PDF\Lector PDF\bin\Debug\Lector PDF.exe
+C:\Users\Usuario\source\repos\Lector PDF\Lector PDF\bin\Debug\Lector PDF.pdb
+C:\Users\Usuario\source\repos\Lector PDF\Lector PDF\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Usuario\source\repos\Lector PDF\Lector PDF\bin\Debug\Interop.WMPLib.dll
+C:\Users\Usuario\source\repos\Lector PDF\Lector PDF\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Usuario\source\repos\Lector PDF\Lector PDF\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuario\source\repos\Lector PDF\Lector PDF\obj\Debug\Lector PDF.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Lector PDF\Lector PDF\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Usuario\source\repos\Lector PDF\Lector PDF\obj\Debug\Interop.WMPLib.dll
+C:\Users\Usuario\source\repos\Lector PDF\Lector PDF\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Usuario\source\repos\Lector PDF\Lector PDF\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Usuario\source\repos\Lector PDF\Lector PDF\obj\Debug\Lector PDF.csproj.ResolveComReference.cache
+C:\Users\Usuario\source\repos\Lector PDF\Lector PDF\obj\Debug\Lector_PDF.Form1.resources
+C:\Users\Usuario\source\repos\Lector PDF\Lector PDF\obj\Debug\Lector_PDF.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Lector PDF\Lector PDF\obj\Debug\Lector PDF.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Lector PDF\Lector PDF\obj\Debug\Lector PDF.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Lector PDF\Lector PDF\obj\Debug\Lector PDF.exe
+C:\Users\Usuario\source\repos\Lector PDF\Lector PDF\obj\Debug\Lector PDF.pdb
